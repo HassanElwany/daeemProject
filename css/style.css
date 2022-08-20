@@ -108,6 +108,9 @@ body {
   color: #f29317;
   padding-bottom: 1.5rem;
 }
+.about-text p {
+  font-size: 1.8rem;
+}
 
 /*************************************/
 
@@ -123,7 +126,7 @@ body {
 }
 
 .card {
-  width: 28rem;
+  width: 85%;
   /* height: 28rem; */
   transition: all 0.3s;
   box-shadow: 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
@@ -261,7 +264,7 @@ footer {
     font-size: 1.6rem;
   }
   .card {
-    width: 22rem;
+    width: 80%;
   }
 
   .contact {
